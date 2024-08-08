@@ -1,5 +1,5 @@
 # Online-Shopping-Application
- This project is a robust and user-friendly online shopping application developed using JSP (JavaServer Pages), JDBC (Java Database Connectivity), and Servlets. The application allows users to browse products, add items to their cart, and complete purchases seamlessly. It includes an admin panel for managing products, users, and orders.
+ This project is a robust and user-friendly online shopping application developed using JSP (JavaServer Pages), JDBC (Java Database Connectivity), and Servlets. The application allows users to browse products, add items to their cart, and complete purchases seamlessly. It includes an admin panel for managing products, users, and orders. Made as a Basic project
 
 Features
 
@@ -40,7 +40,7 @@ Technology Stack
 • Backend: Java (JSP, Servlets)    
 • Database: MySQL, JDBC    
 • Frontend: HTML, CSS, Bootstrap, JavaScript    
-• Tools & Libraries: Apache Tomcat, Maven
+• Tools & Libraries: Apache Tomcat
 
 Project Structure
 
@@ -49,14 +49,12 @@ Project Structure
 • WebContent/: JSP files, CSS, and JavaScript resources.    
 • WEB-INF/: Configuration files, including web.xml.
 
-Setup Instructions
 
-    
-• Clone the repository.    
-• Import the project into your preferred IDE (e.g., Eclipse, IntelliJ IDEA).    
-• Configure the MySQL database and update the database connection details in the configuration file.    
-• Deploy the application on a Tomcat server.    
-• Access the application via the browser and start shopping!
+Disadvantages OR Drawbacks
+
+• Cannot add the images of the Product
+• Poor Interface 
+
 
 Future Enhancements
 
